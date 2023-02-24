@@ -24,5 +24,5 @@
 ## If Hosting a Static Website
 
 - **Bucket Policy:** Make entire bucket public
-- **Static Content:** User S3 to host static content
+- **Static Content:** Use S3 to host static content only, not dynamic
 - **Automatic Scaling:** S3 automatically scales with demand
